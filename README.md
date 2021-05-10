@@ -10,6 +10,7 @@ Ground Truth datasets for French 18th and 19th HTR produced by the [ANR projet T
 | # | name | nb of images | GT for segmenter? | GT for recognizer? | description |
 | --- | :---- | :---: | :---: | :---: | :--- |
 | 1 | cph_paris_tissage_1858 | (159) | n | y | Registers from the Prud'hommes Court for the Textile Industry in Paris, january to june 1858 |
+| 2 | cph_paris_tissage_1878 | (89) | n | y | Registers from the Prud'hommes Court for the Textile Industry in Paris, january 1878 |
 |  |  |  |  |  |  |
 
 ## Annotation system
@@ -30,13 +31,13 @@ year: '2021'
 version: '{any version}'
 description: 'Ground Truth datasets for French 18th and 19th HTR'
 language: 'French'
-time: '1858'
+time: '1858--1878'
 hands: '1'
 license:
     - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
 format: PAGE-XML
 volume:
-    - {count: "159", metric: pages}
+    - {count: "248", metric: pages}
 ```
 
 
