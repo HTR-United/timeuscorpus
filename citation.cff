@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Chagué"
+  given-names: "Alix"
+  orcid: "https://orcid.org/0000-0002-0136-4434"
+- family-names: "Champougny"
+  given-names: "Kévin"
+- family-names: "Meissel"
+  given-names: "Nina"
+- family-names: "Genero"
+  given-names: "Jean-Damien"
+  orcid: "https://orcid.org/0000-0002-0754-9130"
+- family-names: "Skilbeck-Gaborit"
+  given-names: "Eden"
+- family-names: "Vanneau"
+  given-names: "Laurie"
+- family-names: "Bey"
+  given-names: "Laura"
+- family-names: "Le Fourner"
+  given-names: "Victoria"
+- family-names: "Albert"
+  given-names: "Anaïs"
+- family-names: "Riondet"
+  given-names: "Charles"
+- family-names: "Martini"
+  given-names: "Manuela"
+title: "timeuscorpus"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2021-09-01
+url: "https://github.com/HTR-United/timeuscorpus"
