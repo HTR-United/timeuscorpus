@@ -1,0 +1,66 @@
+title : 'timeuscorpus'
+url: 'https://github.com/HTR-United/timeuscorpus'
+project-name: 'ANR TIME US'
+project-website: 'https://timeus.hypotheses.org/'
+authors:
+    - name: 'Chagué'
+      surname: 'Alix'
+      roles:
+      - 'transcriber'
+      - 'aligner'
+      - 'support'
+    - name: 'Riondet'
+      surname: 'Charles'
+      roles:
+      - 'support'
+    - name: 'Le Fourner'
+      surname: 'Victoria'
+      roles:
+      - 'transcriber'
+    - name: 'Bey'
+      surname: 'Laura'
+      roles:
+      - 'transcriber'
+    - name: 'Vanneau'
+      surname: 'Laurie'
+      roles:
+      - 'transcriber'
+    - name: 'Skilbeck-Gaborit'
+      surname: 'Eden'
+      roles:
+      - 'transcriber'
+    - name: 'Meissel'
+      surname: 'Nina'
+      roles:
+      - 'transcriber'
+    - name: 'Genero'
+      surname: 'Jean-Damien'
+      roles:
+      - 'aligner'
+    - name: 'Champougny'
+      surname: 'Kevin'
+      roles:
+      - 'transcriber'
+    - name: 'Albert'
+      surname: 'Anaïs'
+      roles:
+      - 'project-manager'
+    - name: 'Martini'
+      surname: 'Manuela'
+      roles:
+      - 'project-manager'
+description: 'Ground-Truth for French 19th century pre-printed documents created by administrative services.'
+language: 'french'
+#other-languages:
+#    - "Optional"
+script: 'Latin'
+script-type: 'evenly-mixed'
+time: 1858--1858
+hands: 
+    - count: 'less-than-11'
+      precision: 'estimated'
+license:
+    - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
+format: 'Page-XML'
+volume:
+    - {count: "159", metric: "pages"}
