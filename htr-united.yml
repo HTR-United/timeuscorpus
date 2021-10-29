@@ -1,3 +1,4 @@
+schema: https://htr-united.github.io/2021-10-15/schema.json
 title : 'timeuscorpus'
 url: 'https://github.com/HTR-United/timeuscorpus'
 project-name: 'ANR TIME US'
@@ -50,17 +51,20 @@ authors:
       roles:
       - 'project-manager'
 description: 'Ground-Truth for French 19th century pre-printed documents created by administrative services.'
-language: 'french'
-#other-languages:
-#    - "Optional"
-script: 'Latin'
+language: 
+    - 'fra'
+script: 
+    - 'Latn'
 script-type: 'evenly-mixed'
-time: 1858--1858
+time: 
+    notBefore: "1858"
+    notAfter: "1858"
 hands: 
-    - count: 'less-than-11'
-      precision: 'estimated'
+    count: 'less-than-11'
+    precision: 'estimated'
 license:
-    - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
+    - name: 'CC-BY 4.0'
+      url: 'https://creativecommons.org/licenses/by/4.0/'
 format: 'Page-XML'
 volume:
-    - {count: "159", metric: "pages"}
+    - {count: 159, metric: "pages"}
