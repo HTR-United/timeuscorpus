@@ -68,6 +68,58 @@ license:
   url: https://creativecommons.org/licenses/by/4.0/
 format: Page-XML
 volume:
-- count: 159
-  metric: pages
+- metric: characters
+  count: 746997
+- metric: files
+  count: 248
+- metric: lines
+  count: 7701
+- metric: pages
+  count: 159
+- metric: regions
+  count: 587
 production-software: eScriptorium + Kraken
+characters:
+  mode: NFD
+  members:
+  - e
+  - t
+  - /
+  - '0'
+  - a
+  - c
+  - n
+  - r
+  - '1'
+  - m
+  - h
+  - p
+  - s
+  - o
+  - g
+  - '2'
+  - '7'
+  - '9'
+  - E
+  - .
+  - i
+  - '-'
+  - '6'
+  - '5'
+  - '8'
+  - d
+  - f
+  - <
+  - l
+  - '{'
+  - ':'
+  - P
+  - A
+  - G
+  - '}'
+  - U
+  - x
+  - '>'
+  - '4'
+  - b
+  - '3'
