@@ -1,7 +1,10 @@
+# TIMEUS CORPUS
+
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
+<!-- updated by workflow -->
+![Files Badges](badges/files.svg)  ![Regions Badges](badges/regions.svg)  ![Lines Badges](badges/lines.svg)  ![Chars Badges](badges/characters.svg)
 
-# TIMEUS CORPUS
 ## Description
 Ground Truth datasets for French 18th and 19th HTR produced by the [ANR projet TIME US](https://timeus.hypotheses.org/).
 
