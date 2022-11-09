@@ -1,32 +1,62 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+title: Time Us Corpus
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
 authors:
-- family-names: "Chagué"
-  given-names: "Alix"
-  orcid: "https://orcid.org/0000-0002-0136-4434"
-- family-names: "Champougny"
-  given-names: "Kévin"
-- family-names: "Meissel"
-  given-names: "Nina"
-- family-names: "Genero"
-  given-names: "Jean-Damien"
-  orcid: "https://orcid.org/0000-0002-0754-9130"
-- family-names: "Skilbeck-Gaborit"
-  given-names: "Eden"
-- family-names: "Vanneau"
-  given-names: "Laurie"
-- family-names: "Bey"
-  given-names: "Laura"
-- family-names: "Le Fourner"
-  given-names: "Victoria"
-- family-names: "Albert"
-  given-names: "Anaïs"
-- family-names: "Riondet"
-  given-names: "Charles"
-- family-names: "Martini"
-  given-names: "Manuela"
-title: "timeuscorpus"
-version: 1.0.0
-doi: 10.5281/zenodo.6230755
-date-released: 2021-09-01
-url: "https://github.com/HTR-United/timeuscorpus"
+  - given-names: 'Alix'
+    family-names: Chagué
+    orcid: 'https://orcid.org/0000-0002-0136-4434'
+    affiliation: 'ALMAnaCH, Inria, Paris'
+    email: alix.chague@inria.fr
+  - family-names: "Champougny"
+    given-names: "Kévin"
+    affiliation: 'Time Us Project'
+  - family-names: "Meissel"
+    given-names: "Nina"
+    affiliation: 'Time Us Project'
+  - family-names: "Genero"
+    given-names: "Jean-Damien"
+    affiliation: 'ALMAnaCH, Inria, Paris'
+    orcid: "https://orcid.org/0000-0002-0754-9130"
+  - family-names: "Skilbeck-Gaborit"
+    given-names: "Eden"
+    affiliation: 'Time Us Project'
+  - family-names: "Vanneau"
+    given-names: "Laurie"
+    affiliation: 'Time Us Project'
+  - family-names: "Bey"
+    given-names: "Laura"
+    affiliation: 'Time Us Project'
+  - family-names: "Le Fourner"
+    given-names: "Victoria"
+    affiliation: 'ALMAnaCH, Inria, Paris'
+  - family-names: "Albert"
+    given-names: "Anaïs"
+    affiliation: 'ICT, Université de Paris, Paris'
+  - family-names: "Riondet"
+    given-names: "Charles"
+    affiliation: 'ALMAnaCH, Inria, Paris'
+  - family-names: "Martini"
+    given-names: "Manuela"
+    affiliation: 'LARHRA, CNRS, Lyon'
+    email: manuela.martini@univ-lyon2.fr
+repository-code: 'https://github.com/HTR-United/timeuscorpus'
+keywords:
+  - HTR
+  - manuscripts
+  - ground truth
+  - administrative documents
+  - prud'homme
+  - French
+  - 19th century
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.6230755
+    description: "This is the DOI of the latest version available."
+    
+

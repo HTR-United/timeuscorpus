@@ -1,6 +1,10 @@
+<img src="./static/logo-timeus.png" width=150 align=right>
+
 # TIMEUS CORPUS
 
-[![CC BY 4.0][cc-by-shield]][cc-by]
+[![CC BY 4.0][cc-by-shield]][cc-by] [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6230755.svg)](https://doi.org/10.5281/zenodo.6230755)
+
+
 
 <!-- updated by workflow -->
 ![Files Badges](badges/files.svg)  ![Regions Badges](badges/regions.svg)  ![Lines Badges](badges/lines.svg)  ![Chars Badges](badges/characters.svg)
