@@ -78,7 +78,7 @@ jobs:
           pip install chocomufin
       - name: Run ChocoMufin
         run: |
-          chocomufin generate table.csv ./data/**/*.xml
+          chocomufin generate table.csv ./data/**/alto/*.xml
           cat table.csv
   HTRVX:
     runs-on: ubuntu-latest
