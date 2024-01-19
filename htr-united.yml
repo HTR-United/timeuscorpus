@@ -1,125 +1,172 @@
-schema: https://htr-united.github.io/schema/2022-04-15/schema.json
-title: TIMEUS Corpus
-url: https://github.com/HTR-United/timeuscorpus
-project-name: ANR TIME US
-project-website: https://timeus.hypotheses.org/
 authors:
-- name: "Chagu\xE9"
+- name: Chagué
+  roles:
+  - transcriber
+  - aligner
+  - support
   surname: Alix
-  roles:
-  - transcriber
-  - aligner
-  - support
 - name: Riondet
-  surname: Charles
   roles:
   - support
+  surname: Charles
 - name: Le Fourner
+  roles:
+  - transcriber
   surname: Victoria
-  roles:
-  - transcriber
 - name: Bey
+  roles:
+  - transcriber
   surname: Laura
-  roles:
-  - transcriber
 - name: Vanneau
+  roles:
+  - transcriber
   surname: Laurie
-  roles:
-  - transcriber
 - name: Skilbeck-Gaborit
+  roles:
+  - transcriber
   surname: Eden
-  roles:
-  - transcriber
 - name: Meissel
-  surname: Nina
   roles:
   - transcriber
+  surname: Nina
 - name: Genero
-  surname: Jean-Damien
   roles:
   - aligner
+  surname: Jean-Damien
 - name: Champougny
-  surname: Kevin
   roles:
   - transcriber
+  surname: Kevin
 - name: Albert
-  surname: "Ana\xEFs"
   roles:
   - project-manager
+  surname: Anaïs
 - name: Martini
-  surname: Manuela
   roles:
   - project-manager
+  surname: Manuela
+characters:
+  members:
+  - e
+  - n
+  - a
+  - i
+  - t
+  - r
+  - u
+  - s
+  - l
+  - o
+  - d
+  - p
+  - c
+  - m
+  - ́
+  - v
+  - f
+  - q
+  - x
+  - ̀
+  - ','
+  - g
+  - h
+  - "'"
+  - ;
+  - j
+  - C
+  - b
+  - P
+  - D
+  - ’
+  - y
+  - B
+  - .
+  - L
+  - M
+  - ̂
+  - z
+  - J
+  - A
+  - G
+  - E
+  - '-'
+  -  
+  - S
+  - V
+  - '?'
+  - T
+  - Q
+  - F
+  - '='
+  - R
+  - '4'
+  - '2'
+  - ̧
+  - k
+  - —
+  - '7'
+  - W
+  - O
+  - N
+  - '1'
+  - '3'
+  - '8'
+  - '0'
+  - '9'
+  - ':'
+  - –
+  - '5'
+  - ̈
+  - Y
+  - K
+  - H
+  - œ
+  - I
+  - )
+  - (
+  - U
+  - Z
+  - _
+  - '@'
+  - '!'
+  - ‘
+  - »
+  - '&'
+  - '6'
+  - ─
+  - /
+  mode: NFD
 description: Ground-Truth for French 19th century pre-printed documents created by
   administrative services.
+format: Page-XML
+hands:
+  count: less-than-11
+  precision: estimated
 language:
 - fra
+license:
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+production-software: eScriptorium + Kraken
+project-name: ANR TIME US
+project-website: https://timeus.hypotheses.org/
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 script:
 - iso: Latn
 script-type: evenly-mixed
 time:
-  notBefore: '1858'
   notAfter: '1858'
-hands:
-  count: less-than-11
-  precision: estimated
-license:
-- name: CC-BY 4.0
-  url: https://creativecommons.org/licenses/by/4.0/
-format: Page-XML
+  notBefore: '1858'
+title: TIMEUS Corpus
+url: https://github.com/HTR-United/timeuscorpus
 volume:
-- metric: characters
-  count: 746997
-- metric: files
-  count: 248
-- metric: lines
-  count: 7701
-- metric: pages
-  count: 159
-- metric: regions
-  count: 587
-production-software: eScriptorium + Kraken
-characters:
-  mode: NFD
-  members:
-  - e
-  - t
-  - /
-  - a
-  - c
-  - '0'
-  - n
-  - r
-  - '9'
-  - m
-  - h
-  - p
-  - s
-  - o
-  - g
-  - '7'
-  - '1'
-  - E
-  - .
-  - i
-  - '-'
-  - '2'
-  - d
-  - f
-  - '5'
-  - '6'
-  - <
-  - l
-  - '{'
-  - ':'
-  - P
-  - A
-  - G
-  - '}'
-  - U
-  - x
-  - '>'
-  - '4'
-  - b
-  - '8'
-  - '3'
+- count: 401304
+  metric: characters
+- count: 250
+  metric: files
+- count: 7701
+  metric: lines
+- count: 159
+  metric: pages
+- count: 586
+  metric: regions
