@@ -1,0 +1,814 @@
+<mets xmlns="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <fileSec>
+    
+    <fileGrp USE="export">
+      
+        <file ID="export1">
+          <FLocat xlink:href="IMG_20190620_121408.xml"/>
+        </file>
+      
+        <file ID="export2">
+          <FLocat xlink:href="IMG_20190620_121501.xml"/>
+        </file>
+      
+        <file ID="export3">
+          <FLocat xlink:href="IMG_20190620_121521.xml"/>
+        </file>
+      
+        <file ID="export4">
+          <FLocat xlink:href="IMG_20190620_121823.xml"/>
+        </file>
+      
+        <file ID="export5">
+          <FLocat xlink:href="IMG_20190620_121835.xml"/>
+        </file>
+      
+        <file ID="export6">
+          <FLocat xlink:href="IMG_20190620_121911.xml"/>
+        </file>
+      
+        <file ID="export7">
+          <FLocat xlink:href="IMG_20190620_121919.xml"/>
+        </file>
+      
+        <file ID="export8">
+          <FLocat xlink:href="IMG_20190620_121942.xml"/>
+        </file>
+      
+        <file ID="export9">
+          <FLocat xlink:href="IMG_20190620_122100.xml"/>
+        </file>
+      
+        <file ID="export10">
+          <FLocat xlink:href="IMG_20190620_122139.xml"/>
+        </file>
+      
+        <file ID="export11">
+          <FLocat xlink:href="IMG_20190620_122220.xml"/>
+        </file>
+      
+        <file ID="export12">
+          <FLocat xlink:href="IMG_20190620_122236.xml"/>
+        </file>
+      
+        <file ID="export13">
+          <FLocat xlink:href="IMG_20190620_122311.xml"/>
+        </file>
+      
+        <file ID="export14">
+          <FLocat xlink:href="IMG_20190620_122327.xml"/>
+        </file>
+      
+        <file ID="export15">
+          <FLocat xlink:href="IMG_20190620_122343.xml"/>
+        </file>
+      
+        <file ID="export16">
+          <FLocat xlink:href="IMG_20190620_122353.xml"/>
+        </file>
+      
+        <file ID="export17">
+          <FLocat xlink:href="IMG_20190620_122410.xml"/>
+        </file>
+      
+        <file ID="export18">
+          <FLocat xlink:href="IMG_20190620_122418.xml"/>
+        </file>
+      
+        <file ID="export19">
+          <FLocat xlink:href="IMG_20190620_122518.xml"/>
+        </file>
+      
+        <file ID="export20">
+          <FLocat xlink:href="IMG_20190620_122529.xml"/>
+        </file>
+      
+        <file ID="export21">
+          <FLocat xlink:href="IMG_20190620_122552.xml"/>
+        </file>
+      
+        <file ID="export22">
+          <FLocat xlink:href="IMG_20190620_122602.xml"/>
+        </file>
+      
+        <file ID="export23">
+          <FLocat xlink:href="IMG_20190620_122619.xml"/>
+        </file>
+      
+        <file ID="export24">
+          <FLocat xlink:href="IMG_20190620_122633.xml"/>
+        </file>
+      
+        <file ID="export25">
+          <FLocat xlink:href="IMG_20190620_122700.xml"/>
+        </file>
+      
+        <file ID="export26">
+          <FLocat xlink:href="IMG_20190620_122706.xml"/>
+        </file>
+      
+        <file ID="export27">
+          <FLocat xlink:href="IMG_20190620_122720.xml"/>
+        </file>
+      
+        <file ID="export28">
+          <FLocat xlink:href="IMG_20190620_122727.xml"/>
+        </file>
+      
+        <file ID="export29">
+          <FLocat xlink:href="IMG_20190620_122747.xml"/>
+        </file>
+      
+        <file ID="export30">
+          <FLocat xlink:href="IMG_20190620_122805.xml"/>
+        </file>
+      
+        <file ID="export31">
+          <FLocat xlink:href="IMG_20190620_122818.xml"/>
+        </file>
+      
+        <file ID="export32">
+          <FLocat xlink:href="IMG_20190620_122836.xml"/>
+        </file>
+      
+        <file ID="export33">
+          <FLocat xlink:href="IMG_20190620_122850.xml"/>
+        </file>
+      
+        <file ID="export34">
+          <FLocat xlink:href="IMG_20190620_122905.xml"/>
+        </file>
+      
+        <file ID="export35">
+          <FLocat xlink:href="IMG_20190620_122914.xml"/>
+        </file>
+      
+        <file ID="export36">
+          <FLocat xlink:href="IMG_20190620_122936.xml"/>
+        </file>
+      
+        <file ID="export37">
+          <FLocat xlink:href="IMG_20190620_122953.xml"/>
+        </file>
+      
+        <file ID="export38">
+          <FLocat xlink:href="IMG_20190620_123008.xml"/>
+        </file>
+      
+        <file ID="export39">
+          <FLocat xlink:href="IMG_20190620_123031.xml"/>
+        </file>
+      
+        <file ID="export40">
+          <FLocat xlink:href="IMG_20190620_123049.xml"/>
+        </file>
+      
+        <file ID="export41">
+          <FLocat xlink:href="IMG_20190620_123100.xml"/>
+        </file>
+      
+        <file ID="export42">
+          <FLocat xlink:href="IMG_20190620_123115.xml"/>
+        </file>
+      
+        <file ID="export43">
+          <FLocat xlink:href="IMG_20190620_123123.xml"/>
+        </file>
+      
+        <file ID="export44">
+          <FLocat xlink:href="IMG_20190620_123147.xml"/>
+        </file>
+      
+        <file ID="export45">
+          <FLocat xlink:href="IMG_20190620_123155.xml"/>
+        </file>
+      
+        <file ID="export46">
+          <FLocat xlink:href="IMG_20190620_123213.xml"/>
+        </file>
+      
+        <file ID="export47">
+          <FLocat xlink:href="IMG_20190620_123220.xml"/>
+        </file>
+      
+        <file ID="export48">
+          <FLocat xlink:href="IMG_20190620_123238.xml"/>
+        </file>
+      
+        <file ID="export49">
+          <FLocat xlink:href="IMG_20190620_123244.xml"/>
+        </file>
+      
+        <file ID="export50">
+          <FLocat xlink:href="IMG_20190620_123329.xml"/>
+        </file>
+      
+        <file ID="export51">
+          <FLocat xlink:href="IMG_20190620_123346.xml"/>
+        </file>
+      
+        <file ID="export52">
+          <FLocat xlink:href="IMG_20190620_123353.xml"/>
+        </file>
+      
+        <file ID="export53">
+          <FLocat xlink:href="IMG_20190620_123407.xml"/>
+        </file>
+      
+        <file ID="export54">
+          <FLocat xlink:href="IMG_20190620_123420.xml"/>
+        </file>
+      
+        <file ID="export55">
+          <FLocat xlink:href="IMG_20190620_123446.xml"/>
+        </file>
+      
+        <file ID="export56">
+          <FLocat xlink:href="IMG_20190620_123502.xml"/>
+        </file>
+      
+        <file ID="export57">
+          <FLocat xlink:href="IMG_20190620_123526.xml"/>
+        </file>
+      
+        <file ID="export58">
+          <FLocat xlink:href="IMG_20190620_123539.xml"/>
+        </file>
+      
+        <file ID="export59">
+          <FLocat xlink:href="IMG_20190620_123555.xml"/>
+        </file>
+      
+        <file ID="export60">
+          <FLocat xlink:href="IMG_20190620_123602.xml"/>
+        </file>
+      
+        <file ID="export61">
+          <FLocat xlink:href="IMG_20190620_123617.xml"/>
+        </file>
+      
+        <file ID="export62">
+          <FLocat xlink:href="IMG_20190620_123623.xml"/>
+        </file>
+      
+        <file ID="export63">
+          <FLocat xlink:href="IMG_20190620_123638.xml"/>
+        </file>
+      
+        <file ID="export64">
+          <FLocat xlink:href="IMG_20190620_123644.xml"/>
+        </file>
+      
+        <file ID="export65">
+          <FLocat xlink:href="IMG_20190620_123658.xml"/>
+        </file>
+      
+        <file ID="export66">
+          <FLocat xlink:href="IMG_20190620_123706.xml"/>
+        </file>
+      
+        <file ID="export67">
+          <FLocat xlink:href="IMG_20190620_123727.xml"/>
+        </file>
+      
+        <file ID="export68">
+          <FLocat xlink:href="IMG_20190620_123744.xml"/>
+        </file>
+      
+        <file ID="export69">
+          <FLocat xlink:href="IMG_20190620_123758.xml"/>
+        </file>
+      
+        <file ID="export70">
+          <FLocat xlink:href="IMG_20190620_123807.xml"/>
+        </file>
+      
+        <file ID="export71">
+          <FLocat xlink:href="IMG_20190620_123822.xml"/>
+        </file>
+      
+        <file ID="export72">
+          <FLocat xlink:href="IMG_20190620_123831.xml"/>
+        </file>
+      
+        <file ID="export73">
+          <FLocat xlink:href="IMG_20190620_123846.xml"/>
+        </file>
+      
+        <file ID="export74">
+          <FLocat xlink:href="IMG_20190620_123853.xml"/>
+        </file>
+      
+        <file ID="export75">
+          <FLocat xlink:href="IMG_20190620_123909.xml"/>
+        </file>
+      
+        <file ID="export76">
+          <FLocat xlink:href="IMG_20190620_123916.xml"/>
+        </file>
+      
+        <file ID="export77">
+          <FLocat xlink:href="IMG_20190620_123932.xml"/>
+        </file>
+      
+        <file ID="export78">
+          <FLocat xlink:href="IMG_20190620_123938.xml"/>
+        </file>
+      
+        <file ID="export79">
+          <FLocat xlink:href="IMG_20190620_123953.xml"/>
+        </file>
+      
+        <file ID="export80">
+          <FLocat xlink:href="IMG_20190620_123958.xml"/>
+        </file>
+      
+        <file ID="export81">
+          <FLocat xlink:href="IMG_20190620_124015.xml"/>
+        </file>
+      
+        <file ID="export82">
+          <FLocat xlink:href="IMG_20190620_124027.xml"/>
+        </file>
+      
+        <file ID="export83">
+          <FLocat xlink:href="IMG_20190620_124043.xml"/>
+        </file>
+      
+        <file ID="export84">
+          <FLocat xlink:href="IMG_20190620_124049.xml"/>
+        </file>
+      
+        <file ID="export85">
+          <FLocat xlink:href="IMG_20190620_124101.xml"/>
+        </file>
+      
+        <file ID="export86">
+          <FLocat xlink:href="IMG_20190620_124106.xml"/>
+        </file>
+      
+        <file ID="export87">
+          <FLocat xlink:href="IMG_20190620_124121.xml"/>
+        </file>
+      
+        <file ID="export88">
+          <FLocat xlink:href="IMG_20190620_124130.xml"/>
+        </file>
+      
+        <file ID="export89">
+          <FLocat xlink:href="IMG_20190620_124142.xml"/>
+        </file>
+      
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="document">
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export1"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export2"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export3"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export4"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export5"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export6"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export7"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export8"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export9"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export10"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export11"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export12"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export13"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export14"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export15"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export16"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export17"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export18"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export19"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export20"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export21"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export22"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export23"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export24"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export25"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export26"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export27"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export28"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export29"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export30"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export31"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export32"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export33"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export34"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export35"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export36"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export37"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export38"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export39"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export40"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export41"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export42"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export43"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export44"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export45"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export46"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export47"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export48"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export49"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export50"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export51"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export52"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export53"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export54"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export55"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export56"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export57"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export58"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export59"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export60"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export61"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export62"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export63"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export64"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export65"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export66"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export67"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export68"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export69"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export70"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export71"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export72"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export73"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export74"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export75"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export76"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export77"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export78"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export79"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export80"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export81"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export82"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export83"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export84"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export85"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export86"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export87"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export88"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export89"/>
+      </div>
+      
+    </div>
+  </structMap>
+</mets>
